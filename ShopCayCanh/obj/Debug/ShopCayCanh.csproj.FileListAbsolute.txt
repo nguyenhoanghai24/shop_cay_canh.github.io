@@ -1,0 +1,231 @@
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.dll.config
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.pdb
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.exe
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.exe.config
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.rsp
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.exe
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.exe.config
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.rsp
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.AppContext.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Console.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Compression.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Claims.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.ValueTuple.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.exe
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.exe.config
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.rsp
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\EntityFramework.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\EntityFramework.SqlServer.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\PagedList.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\PagedList.Mvc.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Helpers.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Mvc.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Razor.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Razor.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\EntityFramework.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\EntityFramework.SqlServer.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\PagedList.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\PagedList.Mvc.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Razor.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Razor.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Helpers.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\System.Web.Mvc.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csprojAssemblyReference.cache
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csproj.CoreCompileInputs.cache
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csproj.CopyComplete
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.dll
+C:\Users\hungdeptrai\Desktop\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.pdb
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.dll.config
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.pdb
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.exe
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.exe.config
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.rsp
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.exe
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.exe.config
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.rsp
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Console.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Claims.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.exe
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.exe.config
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.rsp
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.Mvc.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Helpers.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Mvc.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Razor.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Razor.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.Mvc.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Razor.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Razor.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Helpers.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Mvc.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csproj.CopyComplete
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.dll
+C:\Users\nguye\Downloads\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.pdb
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.dll.config
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\ShopCayCanh.pdb
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csc.rsp
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.exe
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\csi.rsp
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Console.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Claims.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\vbc.rsp
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Razor.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\PagedList.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Webpages.Razor.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.dll
+C:\Users\nguye\OneDrive\Máy tính\ShopCayCanh\ShopCayCanh\ShopCayCanh\obj\Debug\ShopCayCanh.pdb
